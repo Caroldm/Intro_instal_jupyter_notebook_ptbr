@@ -13,9 +13,9 @@ ________________________________________________________________________________
 
 
   **Instalação do Python** 
-    ~Python Brasil~
-    Python Brasil (https://python.org.br/) possui toda a documentação em português. 
-    No menu Inicie-se a documentação esta organizada por sistema operacional. 
+  Python Brasil.
+  Python Brasil (https://python.org.br/) possui toda a documentação em português. 
+  No menu Inicie-se a documentação esta organizada por sistema operacional. 
 
     O site DEVMEDIA tb explica passo-a-passo a instalação. https://www.devmedia.com.br/instalacao-do-python/38218
     
